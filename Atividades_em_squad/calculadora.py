@@ -33,3 +33,5 @@ def calculadora():
 
 # Executa a calculadora
 calculadora()
+for ["MIZAEL"]
+print "FOR"

@@ -1,16 +1,18 @@
-## Hi there 👋
+ PunkTec!!
 
-<!--
-**squadPunkTec/SquadPunkTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Seja Bem Vindo ao squad Punk
+#### "unidos por uma só razão, somos todos os dias o melhor de nós"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quem somos:
+    somos uma squad de QA e Programação formada por estudantes do Instituto JogaJunto, em Ilhabela - Sp
+
+### Para que essa conta é usada:
+    essa conta foi criada com o intuito de públicar nossas tarefas/atividades feitas em squad, 
+    para que tanto os professores e alunos possam ver, quanto pessoas de fora que se interessem em ler nossos trabalhos
+
+### Quem que faz parte dessa Squad:
+    @Yoniaforever
+    @kevenJesus01
+    @MuddyTundra23
+    @Mizael03
